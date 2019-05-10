@@ -1,0 +1,14 @@
+[
+  {
+    "title" :"Люди",
+    "path" : "/People",
+    "key" : 1,
+    "id" : "People"
+  },
+  {
+    "title" :"Друзья",
+    "path" : "/Friends",
+    "key" : 2,
+    "id" : "Friends"
+  }
+]
